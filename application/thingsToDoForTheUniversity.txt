@@ -1,0 +1,18 @@
+things to do for the university implementation. 
+
+=> create a master developer that will assign the principal and the secretary
+    and also the university president and university secretary and will also
+    let you enter the name of the school name;
+
+=>  the university secretary should also manage the names of the university 
+    departments and assign the courses corelated into that particular departments
+
+=> when the department and the courses is already done. create a batch register
+    for the course corriculum
+
+
+quick ideas. 
+    *dapat mapadali na yung pag kuha ng form137 tapos yung grades nung bata
+    na tipo bang ang gagawin nalang ng admin search the name of the student
+    and then just click "produce form 137". tapos yung mga grade requests. 
+    seselect ka lang kung anong school year tapos 
